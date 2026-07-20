@@ -1,0 +1,19 @@
+//メンバー決まったら書き足す
+
+[
+  {
+    "rank": 1,
+    "profileType": "student",
+    "profileId": 3
+  },
+  {
+    "rank": 2,
+    "profileType": "student",
+    "profileId": 8
+  },
+  {
+    "rank": 3,
+    "profileType": "student",
+    "profileId": 15
+  }
+]

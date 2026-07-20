@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>プロフィール｜可央下茂高等学校</title>
+
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/profile.css">
+</head>
+
+<body>
+
+  <header class="header">
+    <div class="header__inner">
+      <a href="home.html" class="header__logo">可央下茂高等学校</a>
+
+      <nav class="header__nav">
+        <a href="#" class="header__nav-link">アクセス</a>
+        <a href="#" class="header__nav-link">入学希望者向け資料請求</a>
+
+        <button id="menu-open" class="menu-button" aria-label="メニューを開く">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <div id="menu-overlay" class="menu-overlay">
+    <div class="menu-overlay__header">
+      <a href="home.html" class="menu-overlay__logo">可央下茂高等学校</a>
+
+      <button id="menu-close" class="menu-close" aria-label="メニューを閉じる">
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+
+    <nav class="menu-overlay__nav">
+      <a href="album-cover.html">2025年度卒業生 卒業アルバムデータ</a>
+      <a href="club.html">部活動紹介一覧</a>
+      <a href="contest.html">第1147回 可央下茂ミス・ミスターコン結果発表</a>
+      <a href="home.html">トップページへ戻る</a>
+    </nav>
+  </div>
+
+  <main class="profile">
+
+    <h1 id="profile-rank" class="profile__rank"></h1>
+
+    <div class="profile__card">
+
+      <button class="profile__close" onclick="history.back()">×</button>
+
+      <div class="profile__left">
+
+        <img id="profile-image" src="" alt="プロフィール写真">
+
+        <p class="profile__label">＜プロフィール＞</p>
+
+        <div class="profile__info">
+          <p>名前</p>
+          <span id="profile-name"></span>
+
+          <p>血液型</p>
+          <span id="profile-blood"></span>
+
+          <p>MBTI</p>
+          <span id="profile-mbti"></span>
+        </div>
+
+        <div class="profile__club">
+          <p>所属部活動</p>
+          <span id="profile-club"></span>
+        </div>
+
+      </div>
+
+      <div class="profile__right">
+
+        <div class="profile__section">
+          <h2>住まい</h2>
+          <div class="profile__box">
+            <p id="profile-home"></p>
+          </div>
+        </div>
+
+        <div class="profile__section">
+          <h2>自己紹介</h2>
+          <div class="profile__box">
+            <p id="profile-introduction"></p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <a id="profile-next" class="profile__next"></a>
+
+  </main>
+
+  <script src="js/common.js"></script>
+  <script src="js/profile.js"></script>
+
+</body>
+</html>

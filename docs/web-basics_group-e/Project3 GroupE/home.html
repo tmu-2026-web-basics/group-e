@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>可央下茂高等学校｜ホーム</title>
+  <link rel="stylesheet" href="css/sanitize.css">
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/home.css">
+</head>
+
+<body id="page-top">
+
+  <header class="header">
+    <div class="header__inner">
+      <a href="home.html" class="header__logo">可央下茂高等学校</a>
+
+      <nav class="header__nav" aria-label="メインメニュー">
+        <a href="#" class="header__nav-link">アクセス</a>
+        <a href="#" class="header__nav-link">入学希望者向け資料請求</a>
+
+        <button type="button" id="menu-open" class="menu-button" aria-label="メニューを開く" aria-controls="menu-overlay" aria-expanded="false">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <div id="menu-overlay" class="menu-overlay" aria-hidden="true">
+    <div class="menu-overlay__header">
+      <a href="home.html" class="menu-overlay__logo">可央下茂高等学校</a>
+
+      <button type="button" id="menu-close" class="menu-close" aria-label="メニューを閉じる">
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+
+    <nav class="menu-overlay__nav" aria-label="オーバーレイメニュー">
+      <a href="album-cover.html">2025年度卒業生<br>卒業アルバムデータ</a>
+      <a href="club.html">部活動紹介一覧</a>
+      <a href="contest.html">第1147回<br>可央下茂ミス・ミスターコン結果発表</a>
+      <a href="home.html">トップページへ戻る</a>
+    </nav>
+  </div>
+
+  <main>
+    <section class="hero">
+      <div class="hero__side hero__side--left">
+        <img src="images/top/main-side-left.jpg" alt="">
+      </div>
+
+      <div class="hero__main">
+        <img src="images/top/main01.jpg" alt="可央下茂高等学校のイメージ" class="hero__image">
+
+        <div class="hero__copy">
+          <p>100人いれば、</p>
+          <p>100通りの笑顔。</p>
+        </div>
+
+        <p class="hero__description">イメージ画像が5枚くらいの時間で回っていく</p>
+
+        <div class="hero__dots" aria-label="スライド位置">
+          <button type="button" class="hero__dot" aria-label="1枚目"></button>
+          <button type="button" class="hero__dot" aria-label="2枚目"></button>
+          <button type="button" class="hero__dot" aria-label="3枚目"></button>
+          <button type="button" class="hero__dot hero__dot--active" aria-label="4枚目"></button>
+          <button type="button" class="hero__dot" aria-label="5枚目"></button>
+        </div>
+      </div>
+
+      <div class="hero__side hero__side--right">
+        <img src="images/top/main-side-right.jpg" alt="">
+      </div>
+    </section>
+
+    <section class="news">
+      <div class="news__heading">
+        <p>NEWS</p>
+        <h2>お知らせ</h2>
+      </div>
+
+      <div id="news-list" class="news__list">
+        <a href="album-cover.html" class="news__item">
+          <time datetime="2026-07-02">2026.07.02</time>
+          <span>2025年度卒業生　卒業アルバムデータ公開</span>
+        </a>
+
+        <a href="club.html" class="news__item">
+          <time datetime="2026-05-25">2026.05.25</time>
+          <span>部活動紹介一覧公開</span>
+        </a>
+
+        <a href="contest.html" class="news__item">
+          <time datetime="2026-05-11">2026.05.11</time>
+          <span>第1147回　可央下茂ミス・ミスターコン　結果発表</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="features">
+      <article class="feature">
+        <img src="images/top/curriculum.jpg" alt="授業や実践型カリキュラムのイメージ">
+        <div class="feature__text">
+          <h2>自主性を育てる<br>実践型カリキュラム</h2>
+        </div>
+      </article>
+
+      <article class="feature feature--reverse">
+        <img src="images/top/global.jpg" alt="グローバル教育のイメージ">
+        <div class="feature__text">
+          <h2>グローバル社会で活躍する<br>未来のリーダーへ</h2>
+        </div>
+      </article>
+
+      <article class="feature">
+        <img src="images/top/school-life.jpg" alt="学校生活のイメージ">
+        <div class="feature__text">
+          <h2>色んな顔と出会い、<br>違いを認め合う</h2>
+        </div>
+      </article>
+    </section>
+
+    <section class="link-cards">
+      <a href="album-cover.html" class="link-card">
+        <p>2025年度卒業生</p>
+        <h2>卒業アルバム</h2>
+        <span>先生・生徒の紹介や思い出を掲載しています。</span>
+      </a>
+
+      <a href="club.html" class="link-card">
+        <p>新入生向け</p>
+        <h2>部活動紹介一覧</h2>
+        <span>各部活動の内容や活動の様子を紹介します。</span>
+      </a>
+
+      <a href="contest.html" class="link-card">
+        <p>2026年度</p>
+        <h2>ミスコン<br>ミスターコン結果</h2>
+        <span>校内コンテストの結果を掲載しています。</span>
+      </a>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <a href="#page-top" class="footer__top">ページトップへ</a>
+    <p>可央下茂高等学校附属中学校</p>
+  </footer>
+
+  <script src="js/common.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>

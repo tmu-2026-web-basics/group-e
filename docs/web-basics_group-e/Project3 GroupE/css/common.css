@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/*
+ * Font Name: はれのそら明朝 (Harenosora Mincho)
+ * Author: fontopo (https://fontopo.com/?p=377)
+ * License: IPA Font License Agreement v1.0 (https://moji.or.jp/ipafont/license/)
+ * * ※このWebフォントは上記フォントをWOFF2形式に変換（またはサブセット化）した派生プログラムです。
+ * オリジナルのフォントデータは上記のAuthorのWebサイトより取得可能です。
+ */
+@font-face {
+    font-family: 'HarenosoraMincho';
+    src:url('../font/Harenosora.woff2') format('woff2'),
+        url('../font/Harenosora.otf') format('opentype'); /* WOFF2が読み込めなかった時の予備 */
+    font-display: swap;
+}
+
+body {
+    font-family: "HarenosoraMincho", serif;
+}

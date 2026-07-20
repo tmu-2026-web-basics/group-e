@@ -1,0 +1,13 @@
+// メンバー決まったら書き足す
+
+[
+  {
+    "name": "サッカー部",
+    "groupPhoto": "images/clubs/soccer.jpg",
+    "members": [3, 8, 15, 22]
+  },
+  {
+    "name": "ラグビー部",
+    "groupPhoto": "images/clubs/rugby.jpg",
+    "members": [5, 10, 12, 18]
+  }

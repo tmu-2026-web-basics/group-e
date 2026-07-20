@@ -1,0 +1,262 @@
+[
+  {
+    "type": "teacher",
+    "id": 1,
+    "name": "○○先生",
+    "mbti": "ENTJ",
+    "club": "担任",
+    "home": "○○県在住",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/teachers/teacher01.jpg"
+  },
+  {
+    "type": "student",
+    "id": 1,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 2,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 3,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 4,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 5,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 6,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 7,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 8,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 9,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 10,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 11,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 12,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 13,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 14,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 15,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 16,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 17,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 18,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 19,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 20,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 21,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 22,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 23,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 24,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+   {
+    "type": "student",
+    "id": 25,
+    "name": "山田 花子",
+    "mbti": "INFP",
+    "club": "美術部",
+    "home": "東京都",
+    "introduction": "プロフィール文...",
+    "image": "images/profiles/students/student01.jpg"
+  }
+]
